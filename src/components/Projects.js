@@ -1,7 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import pantrypal1 from "../assets/img/pantrypal1.png";
-import pantrypal2 from "../assets/img/pantrypal2.png";
 import pantrypal3 from "../assets/img/pantrypal3.png";
 import pantrypal4 from "../assets/img/pantrypal4.png";
 import pantrypal5 from "../assets/img/pantrypal5.png";
